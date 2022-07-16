@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="170a7e69-1f35-43d8-a5c2-421348b5b07a" name="Changes" comment="develope" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BieOz9qYzrVqOhZ9AmD5RNjFdw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OrderTests" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compiler:compile" />
+      <command value="mvn compiler:testCompile" />
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OrderTests.orderIsCompletedWithFirstDataPackageAndHeightOrderButton">
+    <configuration name="OrderTests.orderIsCompletedWithFirstDataPackageAndHeightOrderButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa-scooter-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrderTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrderTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderTests.OrderTests" />
+      <option name="METHOD_NAME" value="orderIsCompletedWithFirstDataPackageAndHeightOrderButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTests.orderIsCompletedWithSecondDataPackageAndMiddleOrderButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa-scooter-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrderTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrderTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderTests.OrderTests" />
+      <option name="METHOD_NAME" value="orderIsCompletedWithSecondDataPackageAndMiddleOrderButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderTestsFireFox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa-scooter-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrderTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrderTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderTests.orderTestsFireFox" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderTestsFireFox.orderIsCompletedWithFirstDataPackageAndHeightOrderButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa-scooter-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrderTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrderTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderTests.orderTestsFireFox" />
+      <option name="METHOD_NAME" value="orderIsCompletedWithFirstDataPackageAndHeightOrderButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderTestsFireFox.orderIsCompletedWithSecondDataPackageAndMiddleOrderButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa-scooter-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrderTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrderTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderTests.orderTestsFireFox" />
+      <option name="METHOD_NAME" value="orderIsCompletedWithSecondDataPackageAndMiddleOrderButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderTests.orderIsCompletedWithFirstDataPackageAndHeightOrderButton" />
+        <item itemvalue="JUnit.OrderTests.orderIsCompletedWithSecondDataPackageAndMiddleOrderButton" />
+        <item itemvalue="JUnit.orderTestsFireFox.orderIsCompletedWithSecondDataPackageAndMiddleOrderButton" />
+        <item itemvalue="JUnit.orderTestsFireFox.orderIsCompletedWithFirstDataPackageAndHeightOrderButton" />
+        <item itemvalue="JUnit.orderTestsFireFox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="170a7e69-1f35-43d8-a5c2-421348b5b07a" name="Changes" comment="" />
+      <created>1657393305356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657393305356</updated>
+    </task>
+    <task id="LOCAL-00001" summary="develope">
+      <created>1657570145657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657570145657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="develope" />
+    <option name="LAST_COMMIT_MESSAGE" value="develope" />
+  </component>
+</project>
